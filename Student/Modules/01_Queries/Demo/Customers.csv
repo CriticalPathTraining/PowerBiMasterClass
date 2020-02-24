@@ -718,7 +718,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 717,Lizzie,Oneil,Tyrell Corporation,Lizzie.Oneil@TyrellCorporation.com,1(425)666-6666,1(425)333-0000,79 12th Street East,Issaquah,WA,98027,F,8/8/1991,5/25/2012,5/25/2012
 718,Wm,Winters,Blaidd Dwrg Nuclear Power Plant,Wm.Winters@BlaiddDwrgNuclearPowerPlant.com,1(425)555-2222,1(425)555-3333,202 Route 4,Redmond,WA,98052,M,2/24/1961,5/25/2012,5/25/2012
 719,Greg,Reilly,Ecumena,Greg.Reilly@Ecumena.com,1(480)333-0000,1(480)777-3333,26 Grand Avenue,Tempe,AZ,85283,M,2/3/1931,5/25/2012,5/25/2012
-720,Barrett,Petersen,Dirk Gently's Holistic Detective Agency,Barrett.Petersen@DirkGentlysHolisticDetectiveAgency.com,1(707)222-4444,1(707)888-1111,20 5th Street,Napa,CA,94558,M,2/10/1958,5/25/2012,9/14/2015
+720,Barrett,Petersen,Dirk Gently's Holistic Detective Agency,Barrett.Petersen@DirkGentlysHolisticDetectiveAgency.com,1(707)222-4444,1(707)888-1111,20 5th Street,Napa,CA,94558,M,2/10/2003,5/25/2012,9/14/2015
 721,Opal,Reeves,Soylent Corporation,Opal.Reeves@SoylentCorporation.com,1(360)333-5555,1(360)333-0000,596 Homestead Drive,Vancouver,WA,98665,F,2/4/1974,5/25/2012,5/25/2012
 722,Titus,Whitehead,Scrooge McDuck's,Titus.Whitehead@ScroogeMcDucks.com,1(206)888-3333,1(206)222-1111,56 Devon Road,Seattle,WA,98125,M,9/4/1990,5/26/2012,5/26/2012
 723,Herminia,Garrison,Umbrella Corporation,Herminia.Garrison@UmbrellaCorporation.com,1(503)555-1111,1(503)777-5555,6038 Fairview Avenue,Salem,OR,97301,F,4/6/1955,5/26/2012,5/26/2012
@@ -822,7 +822,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 821,Isaias,Noel,"Shinra Electric Power Companyworld, Final Fantasy VII","Isaias.Noel@ShinraElectricPowerCompanyworld,FinalFantasyVII.com",1(503)888-7777,1(503)555-2222,53 Valley View Road,Portland,OR,97216,M,3/4/1949,6/12/2012,6/12/2012
 822,Tomas,McKay,Metacortex,Tomas.McKay@Metacortex.com,1(425)777-6666,1(425)777-8888,9442 Creek Road,Bellevue,WA,98006,M,1/17/1987,6/12/2012,6/12/2012
 823,Harris,Grimes,Oceanic Airlines,Harris.Grimes@OceanicAirlines.com,1(505)333-6666,1(505)777-3333,98 Beechwood Drive,Albuquerque,NM,87113,M,2/2/1949,6/12/2012,6/12/2012
-824,Lucius,Callahan,Slate Rock and Gravel Company,Lucius.Callahan@SlateRockandGravelCompany.com,1(916)555-6666,1(916)666-2222,2115 Virginia Street,Folsom,CA,95630,M,2/14/1975,6/12/2012,6/12/2012
+824,Lucius,Callahan,Slate Rock and Gravel Company,Lucius.Callahan@SlateRockandGravelCompany.com,1(916)555-6666,1(916)666-2222,2115 Virginia Street,Folsom,CA,95630,M,2/14/2001,6/12/2012,6/12/2012
 825,Jason,Dudley,Ewing Oil,Jason.Dudley@EwingOil.com,1(281)555-0000,1(281)222-6666,516 Marshall Street,Houston,TX,77069,M,10/9/1969,6/12/2012,6/12/2012
 826,Isabel,Castaneda,Oceanic Airlines,Isabel.Castaneda@OceanicAirlines.com,1(602)777-1111,1(602)111-5555,36 Heritage Drive,Phoenix,AZ,85018,F,3/23/1943,6/12/2012,6/12/2012
 827,Maxwell,Rodriquez,Astromech,Maxwell.Rodriquez@Astromech.com,1(505)555-5555,1(505)444-2222,508 Heather Lane,Albuquerque,NM,87111,M,9/4/1983,6/12/2012,6/12/2012
@@ -1028,7 +1028,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 1027,Lyndon,Santos,W.C. Boggs & Co.,Lyndon.Santos@W.C.Boggs&Co..com,1(415)555-8888,1(415)111-4444,75 Howard Street,San Francisco,CA,94118,M,4/12/1973,7/8/2012,7/8/2012
 1028,Jeanne,Carter,ARCAM Corporation,Jeanne.Carter@ARCAMCorporation.com,1(805)555-6666,1(805)333-5555,95 Morris Street,Ventura,CA,93003,F,3/21/1955,7/8/2012,7/8/2012
 1029,Herschel,Farmer,Central Perk,Herschel.Farmer@CentralPerk.com,1(813)111-4444,1(813)222-0000,56 Street Road,Riverview,FL,33578,M,4/24/1973,7/8/2012,7/8/2012
-1030,Eula,Olsen,Zorin Industries,Eula.Olsen@ZorinIndustries.com,1(805)333-4444,1(805)333-5555,8930 8th Avenue,Ventura,CA,93003,F,4/2/1984,7/8/2012,7/8/2012
+1030,Eula,Olsen,Zorin Industries,Eula.Olsen@ZorinIndustries.com,1(805)333-4444,1(805)333-5555,8930 8th Avenue,Ventura,CA,93003,F,4/2/2002,7/8/2012,7/8/2012
 1031,Renato,Fowler,Initech,Renato.Fowler@Initech.com,1(512)444-7777,1(512)222-4444,3066 Monroe Drive,Austin,TX,78753,M,6/24/1981,7/8/2012,10/26/2015
 1032,Roslyn,Watson,Culdee Fell Railway,Roslyn.Watson@CuldeeFellRailway.com,1(505)333-5555,1(505)333-7777,877 Briarwood Court,Albuquerque,NM,87112,F,2/1/1975,7/9/2012,7/9/2012
 1033,Mollie,Bowman,Total Bastard Airlines,Mollie.Bowman@TotalBastardAirlines.com,1(310)777-2222,1(310)444-5555,153 Sherwood Drive,Manhattan Beach,CA,90266,F,3/12/1959,7/9/2012,7/9/2012
@@ -2632,7 +2632,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 2631,Maryanne,Price,Tagruato,Maryanne.Price@Tagruato.com,1(770)222-7777,1(770)111-6666,3378 Route 29,Norcross,GA,30092,F,1/12/1981,12/28/2012,12/28/2012
 2632,Marty,Durham,Mishima ZaibatsuRAMJAC Corporation,Marty.Durham@MishimaZaibatsuRAMJACCorporation.com,1(713)555-7777,1(713)333-2222,360 Bay Street,Houston,TX,77024,M,11/20/1986,12/29/2012,12/29/2012
 2633,Ilene,Cameron,Crudgington Brewery,Ilene.Cameron@CrudgingtonBrewery.com,1(915)222-2222,1(915)555-8888,79 Park Street,El Paso,TX,79936,F,9/17/1973,12/29/2012,12/9/2015
-2634,Shanna,Hughes,Sirius Cybernetics Corporation,Shanna.Hughes@SiriusCyberneticsCorporation.com,1(415)666-6666,1(415)333-1111,3844 Heather Court,San Francisco,CA,94118,F,4/3/1969,12/29/2012,12/29/2012
+2634,Shanna,Hughes,Sirius Cybernetics Corporation,Shanna.Hughes@SiriusCyberneticsCorporation.com,1(415)666-6666,1(415)333-1111,3844 Heather Court,San Francisco,CA,94118,F,4/3/2001,12/29/2012,12/29/2012
 2635,Randell,McFarland,Prescott Pharmaceuticals,Randell.McFarland@PrescottPharmaceuticals.com,1(916)222-8888,1(916)444-4444,4110 Lexington Drive,Sacramento,CA,95825,M,9/1/1947,12/29/2012,12/29/2012
 2636,Fay,Singleton,Strickland Propane,Fay.Singleton@StricklandPropane.com,1(404)222-2222,1(404)666-0000,6023 Jackson Street,Atlanta,GA,30307,F,3/15/1949,12/29/2012,12/14/2015
 2637,Rhea,Mitchell,Trade Federation,Rhea.Mitchell@TradeFederation.com,1(415)333-7777,1(415)444-3333,597 Lexington Drive,San Francisco,CA,94103,F,2/22/1953,12/29/2012,12/29/2012
@@ -2649,6 +2649,6 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 2648,Rudy,Brewer,Khumalo,Rudy.Brewer@Khumalo.com,1(719)555-6666,1(719)777-6666,36 Heather Lane,Colorado Springs,CO,80922,M,11/5/1985,12/31/2012,12/31/2012
 2649,Leslie,Maxwell,Muffin Buffalo,Leslie.Maxwell@MuffinBuffalo.com,1(503)333-0000,1(503)444-0000,371 Mulberry Court,Portland,OR,97216,M,6/3/1973,12/31/2012,12/31/2012
 2650,Jody,McCoy,Roxxon,Jody.McCoy@Roxxon.com,1(714)666-0000,1(714)111-4444,96 4th Street West,Anaheim,CA,92802,F,9/2/1949,12/31/2012,12/31/2012
-2651,Boris,Hines,Medical Mechanica,Boris.Hines@MedicalMechanica.com,1(661)333-5555,1(661)333-1111,31 Walnut Street,Bakersfield,CA,93311,M,10/14/1955,12/31/2012,12/31/2012
-2652,Jan,OBrien,Roxxon,Jan.OBrien@Roxxon.com,1(559)333-2222,1(559)555-5555,97 Evergreen Drive,Fresno,CA,93726,F,1/1/1990,12/31/2012,10/27/2015
+2651,Boris,Hines,Medical Mechanica,Boris.Hines@MedicalMechanica.com,1(661)333-5555,1(661)333-1111,31 Walnut Street,Bakersfield,CA,93311,M,10/14/2001,12/31/2012,12/31/2012
+2652,Jan,OBrien,Roxxon,Jan.OBrien@Roxxon.com,1(559)333-2222,1(559)555-5555,97 Evergreen Drive,Fresno,CA,93726,F,1/1/2002,12/31/2012,10/27/2015
 2653,Gavin,Hines,Digivation Industries,Gavin.Hines@DigivationIndustries.com,1(805)333-2222,1(805)666-6666,50 Cambridge Court,Ventura,CA,93003,M,2/2/1992,12/31/2012,3/5/2015
