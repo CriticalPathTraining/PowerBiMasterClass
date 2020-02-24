@@ -141,7 +141,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 140,Ambrose,Cote,Rovers Return,Ambrose.Cote@RoversReturn.com,1(323)777-7777,1(323)777-8888,1958 4th Street South,Los Angeles,CA,90048,M,2/12/1976,2/18/2012,2/18/2012
 141,Rueben,Ellis,Jupiter Mining Corporation,Rueben.Ellis@JupiterMiningCorporation.com,1(916)555-1111,1(916)222-8888,3084 Magnolia Drive,Sacramento,CA,95818,M,3/27/1966,2/18/2012,2/18/2012
 142,Myron,Marks,Porter Automobiles,Myron.Marks@PorterAutomobiles.com,1(323)111-0000,1(323)666-1111,439 Park Drive,Los Angeles,CA,90022,M,6/1/1949,2/18/2012,2/18/2012
-143,Brittany,Conrad,Strickland Propane,Brittany.Conrad@StricklandPropane.com,1(970)777-6666,1(970)222-3333,1935 Wall Street,Fort Collins,CO,80525,F,8/22/1973,2/18/2012,2/18/2012
+143,Brittany,Conrad,Strickland Propane,Brittany.Conrad@StricklandPropane.com,1(970)777-6666,1(970)222-3333,1935 Wall Street,Fort Collins,CO,80525,F,8/22/1999,2/18/2012,2/18/2012
 144,Maryellen,Tanner,Total Bastard Airlines,Maryellen.Tanner@TotalBastardAirlines.com,1(916)333-8888,1(916)888-8888,358 Sherwood Drive,Sacramento,CA,95823,F,7/3/1942,2/19/2012,2/19/2012
 145,Jacques,Rogers,Yoyodyne Propulsion Systems,Jacques.Rogers@YoyodynePropulsionSystems.com,1(213)333-1111,1(213)222-0000,9885 Bay Street,Los Angeles,CA,90017,M,8/10/1992,2/19/2012,2/19/2012
 146,Hung,Reynolds,Culdee Fell Railway,Hung.Reynolds@CuldeeFellRailway.com,1(520)222-5555,1(520)333-5555,7867 Devon Court,Tucson,AZ,85705,M,8/23/1933,2/19/2012,11/29/2015
@@ -264,7 +264,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 263,Melvin,Singleton,Roxxon,Melvin.Singleton@Roxxon.com,1(971)888-3333,1(971)111-1111,648 Olive Street,Portland,OR,97220,M,5/25/1959,3/8/2012,12/15/2015
 264,Stefanie,Cameron,Soar Airlines,Stefanie.Cameron@SoarAirlines.com,1(661)777-5555,1(661)333-7777,3404 Jones Street,Bakersfield,CA,93306,F,9/5/1972,3/8/2012,3/8/2012
 265,Lucia,Travis,Trade Federation,Lucia.Travis@TradeFederation.com,1(214)555-7777,1(214)444-7777,577 Central Avenue,Dallas,TX,75220,F,8/5/1938,3/8/2012,3/8/2012
-266,Jewel,Sims,Springfield Nuclear Power Plant,Jewel.Sims@SpringfieldNuclearPowerPlant.com,1(503)111-3333,1(503)333-4444,870 Holly Court,Portland,OR,97216,M,6/20/1974,3/9/2012,3/9/2012
+266,Jewel,Sims,Springfield Nuclear Power Plant,Jewel.Sims@SpringfieldNuclearPowerPlant.com,1(503)111-3333,1(503)333-4444,870 Holly Court,Portland,OR,97216,M,6/20/2001,3/9/2012,3/9/2012
 267,Judy,Fernandez,Astromech,Judy.Fernandez@Astromech.com,1(408)111-4444,1(408)444-6666,276 Essex Court,San Jose,CA,95110,F,10/6/1974,3/9/2012,4/3/2015
 268,Chester,Garner,ComTron,Chester.Garner@ComTron.com,1(210)222-3333,1(210)333-3333,61 4th Avenue,San Antonio,TX,78209,M,5/15/1982,3/9/2012,8/9/2015
 269,Dillon,Taylor,Strickland Propane,Dillon.Taylor@StricklandPropane.com,1(408)777-8888,1(408)777-3333,499 Crescent Street,San Jose,CA,95132,M,5/21/1981,3/9/2012,3/9/2012
@@ -285,7 +285,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 284,Granville,Lynch,Tagruato,Granville.Lynch@Tagruato.com,1(503)555-8888,1(503)444-8888,142 Mulberry Lane,Portland,OR,97216,M,7/14/1975,3/12/2012,7/17/2014
 285,Elliot,Medina,Scrooge McDuck's,Elliot.Medina@ScroogeMcDucks.com,1(214)444-5555,1(214)888-1111,1080 Woodland Drive,Dallas,TX,75220,M,1/6/1949,3/12/2012,3/12/2012
 286,Tabatha,Padilla,Shinra Electric Power Company,Tabatha.Padilla@ShinraElectricPowerCompany.com,1(408)777-8888,1(408)666-5555,43 Linden Avenue,Cupertino,CA,95014,F,3/13/1984,3/12/2012,8/31/2014
-287,Norris,Thornton,Onion Pacific Railroad,Norris.Thornton@OnionPacificRailroad.com,1(360)222-8888,1(360)333-3333,687 2nd Street West,Vancouver,WA,98665,M,3/27/1967,3/12/2012,3/12/2012
+287,Norris,Thornton,Onion Pacific Railroad,Norris.Thornton@OnionPacificRailroad.com,1(360)222-8888,1(360)333-3333,687 2nd Street West,Vancouver,WA,98665,M,3/27/2000,3/12/2012,3/12/2012
 288,Mary,Stephenson,Mel's Diner,Mary.Stephenson@MelsDiner.com,1(408)222-4444,1(408)555-0000,475 John Street,San Jose,CA,95123,M,7/24/1948,3/12/2012,3/12/2012
 289,Leonor,Martinez,Rekall,Leonor.Martinez@Rekall.com,1(602)777-1111,1(602)777-5555,8182 3rd Avenue,Phoenix,AZ,85042,F,11/7/1950,3/12/2012,3/12/2012
 290,Kay,Gardner,VersaLife Corporation,Kay.Gardner@VersaLifeCorporation.com,1(512)666-8888,1(512)111-3333,3611 Hickory Lane,Austin,TX,78730,F,6/24/1961,3/12/2012,3/12/2012
@@ -313,7 +313,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 312,Anastasia,Sheppard,Sheinhardt Wig Company,Anastasia.Sheppard@SheinhardtWigCompany.com,1(360)222-2222,1(360)555-0000,28 Route 70,Vancouver,WA,98665,F,6/27/1979,3/19/2012,3/19/2012
 313,Andy,Woodward,Biffco,Andy.Woodward@Biffco.com,1(323)666-3333,1(323)444-7777,512 Bridle Court,Los Angeles,CA,90022,M,6/22/1950,3/19/2012,3/19/2012
 314,Reyna,Blair,Ajax,Reyna.Blair@Ajax.com,1(214)777-6666,1(214)777-2222,960 Hickory Lane,Dallas,TX,75220,F,9/7/1937,3/19/2012,12/20/2014
-315,Edgar,Rice,The Hanso Foundation,Edgar.Rice@TheHansoFoundation.com,1(210)333-2222,1(210)111-7777,7548 9th Street West,San Antonio,TX,78232,M,10/25/1957,3/19/2012,3/19/2012
+315,Edgar,Rice,The Hanso Foundation,Edgar.Rice@TheHansoFoundation.com,1(210)333-2222,1(210)111-7777,7548 9th Street West,San Antonio,TX,78232,M,10/25/1921,3/19/2012,3/19/2012
 316,Maynard,Bartlett,Duff Beer,Maynard.Bartlett@DuffBeer.com,1(503)777-6666,1(503)888-1111,425 Forest Street,Portland,OR,97216,M,1/14/1958,3/19/2012,8/3/2015
 317,Domenic,Sullivan,"Shinra Electric Power Companyworld, Final Fantasy VII","Domenic.Sullivan@ShinraElectricPowerCompanyworld,FinalFantasyVII.com",1(806)777-6666,1(806)111-2222,688 Water Street,Lubbock,TX,79407,M,5/23/1962,3/19/2012,3/19/2012
 318,Katina,Knight,Initech,Katina.Knight@Initech.com,1(858)333-7777,1(858)888-7777,93 Cambridge Road,San Diego,CA,92126,F,10/24/1958,3/19/2012,3/19/2012
@@ -345,7 +345,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 344,Jame,Mills,Black Mesa Research Facility,Jame.Mills@BlackMesaResearchFacility.com,1(707)777-1111,1(707)555-0000,428 Garfield Avenue,Eureka,CA,95501,M,9/5/1995,3/22/2012,3/22/2012
 345,Malik,Bentley,Union Aerospace Corporation,Malik.Bentley@UnionAerospaceCorporation.com,1(805)666-4444,1(805)333-5555,2605 Cedar Street,Ventura,CA,93003,M,1/13/1992,3/22/2012,3/22/2012
 346,Issac,Love,Yoyodyne Propulsion Systems,Issac.Love@YoyodynePropulsionSystems.com,1(408)444-8888,1(408)111-7777,339 Hawthorne Avenue,San Jose,CA,95110,M,10/23/1989,3/22/2012,3/22/2012
-347,Sherrie,Osborne,The Hanso Foundation,Sherrie.Osborne@TheHansoFoundation.com,1(512)444-6666,1(512)222-8888,5805 Union Street,Austin,TX,78704,F,9/22/1932,3/22/2012,3/22/2012
+347,Sherrie,Osborne,The Hanso Foundation,Sherrie.Osborne@TheHansoFoundation.com,1(512)444-6666,1(512)222-8888,5805 Union Street,Austin,TX,78704,F,9/22/1922,3/22/2012,3/22/2012
 348,Abby,Burt,Oceanic Airlines,Abby.Burt@OceanicAirlines.com,1(719)777-1111,1(719)111-2222,1084 Woodland Avenue,Colorado Springs,CO,80922,F,2/23/1992,3/22/2012,3/22/2012
 349,Drew,Yang,Total Bastard Airlines,Drew.Yang@TotalBastardAirlines.com,1(210)333-0000,1(210)777-0000,28 Columbia Street,San Antonio,TX,78209,M,1/22/1948,3/22/2012,3/22/2012
 350,Bobbie,Russell,The Hanso Foundation,Bobbie.Russell@TheHansoFoundation.com,1(214)777-7777,1(214)888-3333,80 West Street,Dallas,TX,75231,F,6/20/1936,3/22/2012,3/22/2012
@@ -674,7 +674,7 @@ CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,C
 673,Karen,Murphy,Incom Corporation,Karen.Murphy@IncomCorporation.com,1(509)444-4444,1(509)111-4444,38 Parker Street,Spokane,WA,99218,F,8/12/1972,5/18/2012,5/18/2012
 674,Loren,Nguyen,FrobozzCo International - Zork,Loren.Nguyen@FrobozzCoInternational-Zork.com,1(817)111-7777,1(817)111-2222,156 Somerset Drive,Arlington,TX,76015,M,9/20/1965,5/18/2012,5/18/2012
 675,Coy,Finch,Deon International,Coy.Finch@DeonInternational.com,1(858)222-2222,1(858)666-0000,3531 Beechwood Drive,San Diego,CA,92111,M,9/23/1977,5/18/2012,5/18/2012
-676,Todd,Morrison,Duff Beer,Todd.Morrison@DuffBeer.com,1(425)888-4444,1(425)888-0000,831 Broadway,Bellevue,WA,98006,M,3/26/1985,5/18/2012,5/18/2012
+676,Todd,Morrison,Duff Beer,Todd.Morrison@DuffBeer.com,1(425)888-4444,1(425)888-0000,831 Broadway,Bellevue,WA,98006,M,3/26/1918,5/18/2012,5/18/2012
 677,Jamal,Morse,Soar Airlines,Jamal.Morse@SoarAirlines.com,1(408)222-0000,1(408)777-3333,738 Madison Court,San Jose,CA,95123,M,6/9/1990,5/18/2012,5/18/2012
 678,Luann,Stark,Blaidd Dwrg Nuclear Power Plant,Luann.Stark@BlaiddDwrgNuclearPowerPlant.com,1(805)444-1111,1(805)444-0000,45 Brook Lane,Ventura,CA,93003,F,5/11/1976,5/18/2012,5/18/2012
 679,Anderson,Barrett,Ajax,Anderson.Barrett@Ajax.com,1(707)333-1111,1(707)111-0000,162 Clark Street,Napa,CA,94559,M,10/20/1995,5/18/2012,5/18/2012
