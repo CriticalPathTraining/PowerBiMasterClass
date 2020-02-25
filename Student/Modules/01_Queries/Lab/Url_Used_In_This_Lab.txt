@@ -1,0 +1,9 @@
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/Customers.csv
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/SalesRegions.csv
+
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/Invoices_2019Q1.csv
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/Invoices_2019Q2.csv
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/Invoices_2019Q3.csv
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/Invoices_2019Q4.csv
+
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/CustomerComments.json
