@@ -1,0 +1,28 @@
+{
+    "value":[
+        {
+            "CustomerId":129,
+            "Comment": "I got the etch-a-sketch. \tI really love it"
+        },
+        {
+            "CustomerId":714,
+            "Comment": "Thanks. I love me new twitter follower. \\(*^*)/"
+        },
+        {
+            "CustomerId":1234,
+            "Comment": "Why no remore control animals.\r\nThey are all vehicals."
+        },
+        {
+            "CustomerId":1459,
+            "Comment": "I am completely offended by every product your company makes!!!!!!!!!!!!!"
+        }, 
+        {
+            "CustomerId":1601,
+            "Comment": "I navigated to your website.\r\n I picked my products. \r\n Checkout was easy peasy. \r\n I love it."
+        },
+        {
+            "CustomerId":1752,
+            "Comment": "I didn't get my money's worth.\r\nThe #*%&$@ Batman Action Figure you sold me was flimsy."
+        }
+    ]
+}
