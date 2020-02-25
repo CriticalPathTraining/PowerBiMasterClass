@@ -1,4 +1,4 @@
-CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,City,State,Zipcode,Gender,BirthDate,FirstPurchaseDate,LastPurchaseDate
+﻿CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,City,State,Zipcode,Gender,BirthDate,FirstPurchaseDate,LastPurchaseDate
 1,Santiago,Hubbard,Volee Airlines,Santiago.Hubbard@VoleeAirlines.com,1(425)333-6666,1(425)111-8888,6614 Oak Street,Bellevue,WA,98006,M,2/24/1966 0:00,1/7/2019 0:00,1/7/2019 0:00
 2,Nicky,Rios,Fabrikam,Nicky.Rios@Fabrikam.com,1(559)444-0000,1(559)888-0000,186 Church Street North,Fresno,CA,93722,M,2/3/1948 0:00,1/7/2019 0:00,1/7/2019 0:00
 3,Kirk,Sexton,Contoso,Kirk.Sexton@Contoso.com,1(360)111-0000,1(360)555-8888,8791 Edgewood Drive,Vancouver,WA,98684,M,10/20/1954 0:00,1/7/2019 0:00,1/7/2019 0:00
