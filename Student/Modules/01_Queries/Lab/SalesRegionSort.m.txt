@@ -1,0 +1,10 @@
+let
+  Source = #table(type table [SalesRegion = text, SalesRegionSort = number], 
+    {   
+      { "Western Region", 1 },
+      { "Central Region", 2 },
+      { "Eastern Region", 3 } 
+    }  
+  )  
+in
+  Source
