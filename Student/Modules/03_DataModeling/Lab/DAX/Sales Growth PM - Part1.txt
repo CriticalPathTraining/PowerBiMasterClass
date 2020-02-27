@@ -1,0 +1,12 @@
+Sales Growth PM = 
+DIVIDE(
+  [Sales Revenue] -
+  CALCULATE(
+    [Sales Revenue],
+    PREVIOUSMONTH(Calendar[Date])
+  ), 
+  CALCULATE(
+    [Sales Revenue],
+    PREVIOUSMONTH(Calendar[Date])
+  )
+)
