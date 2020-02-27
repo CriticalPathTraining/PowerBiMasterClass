@@ -1,0 +1,6 @@
+Dataset Last Updated = 
+  Var LastUpdatedDateTime =  FIRSTDATE('Dataset'[LastRefresh])
+  Var LastUpdatedDay = FORMAT(LastUpdatedDateTime, "mm/dd/yyyy")
+  Var LastUpdatedTime = FORMAT(LastUpdatedDateTime, "hh:mm AM/PM")
+Return
+  "Dataset last updated on " & LastUpdatedDay & " at " & LastUpdatedTime

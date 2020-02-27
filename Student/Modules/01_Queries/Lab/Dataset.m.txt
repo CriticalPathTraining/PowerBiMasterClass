@@ -1,0 +1,5 @@
+let
+  CurrentTime = DateTime.FixedLocalNow() - #duration(0,5,0,0),
+  TimeTable = #table(type table[LastRefresh=datetime], {{CurrentTime}})
+in
+  TimeTable
