@@ -1,0 +1,1 @@
+Number.RoundDown( Duration.TotalDays(Date.From(DateTime.LocalNow())-[BirthDate])/365 )
