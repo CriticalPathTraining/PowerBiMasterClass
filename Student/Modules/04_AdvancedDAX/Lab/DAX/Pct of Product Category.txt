@@ -1,0 +1,8 @@
+Pct of Product Category = 
+DIVIDE(
+	[Sales Revenue],
+	CALCULATE(
+		[Sales Revenue],
+		ALL( Products[Subcategory], Products[Product] )
+	)
+)
