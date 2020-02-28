@@ -1,7 +1,8 @@
 MyCalendar = 
-Var CalenderStart = Date(2012, 1, 1)  
-Var CalendarEnd = Date(2015, 12, 31)
-Return ADDCOLUMNS(
+  Var CalenderStart = Date(2012, 1, 1)  
+  Var CalendarEnd = Date(2015, 12, 31)
+Return 
+  ADDCOLUMNS(
     CALENDAR(CalenderStart, CalendarEnd),
     "Year", Year([Date]),
     "Quarter", Year([Date]) & "-Q" & FORMAT([Date], "q"),
@@ -11,4 +12,4 @@ Return ADDCOLUMNS(
     "MonthInYearSort", MONTH([Date]),
     "Day of Week", FORMAT([Date], "ddd"),
     "DayOfWeekSort",  WEEKDAY([Date], 2)
-)
+  )

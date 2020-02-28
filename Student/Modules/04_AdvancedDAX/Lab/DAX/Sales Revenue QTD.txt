@@ -1,0 +1,1 @@
+Sales Revenue QTD = TOTALQTD([Sales Revenue], 'Calendar'[Date])
