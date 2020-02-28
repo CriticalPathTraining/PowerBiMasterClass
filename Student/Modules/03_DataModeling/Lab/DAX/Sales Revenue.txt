@@ -1,0 +1,1 @@
+Sales Revenue = Sum(Sales[SalesAmount])

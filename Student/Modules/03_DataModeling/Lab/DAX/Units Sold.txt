@@ -1,0 +1,1 @@
+Units Sold = SUM(Sales[Quantity])

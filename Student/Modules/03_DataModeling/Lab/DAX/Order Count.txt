@@ -1,0 +1,4 @@
+Order Count = CALCULATE(
+     COUNTROWS(Orders),
+     CROSSFILTER(Orders[InvoiceId], Sales[InvoiceId], Both)
+)

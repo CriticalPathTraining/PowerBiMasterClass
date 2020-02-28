@@ -1,0 +1,1 @@
+Profit = SUMX(Sales, Sales[SalesAmount]-Sales[ProductCost])

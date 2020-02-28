@@ -1,8 +1,0 @@
-Pct of Product Subcategory = 
-DIVIDE(
-	[Sales Revenue],
-	CALCULATE(
-		[Sales Revenue],
-		ALL( Products[Product] )
-	)
-)
