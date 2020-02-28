@@ -6,4 +6,4 @@ https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Da
 https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/Invoices_2019Q3.csv
 https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/Invoices_2019Q4.csv
 
-https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/CustomerComments.json
+https://github.com/CriticalPathTraining/PowerBiMasterClass/raw/master/Student/Data/WebsiteComments.json
