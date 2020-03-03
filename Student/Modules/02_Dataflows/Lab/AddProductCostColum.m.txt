@@ -1,0 +1,11 @@
+let
+  Source = Sql.Database("cpt.database.windows.net", "WingtipSalesDB"),
+  #"Navigation 1" = Source{[Schema = "dbo", Item = "InvoiceDetails"]}[Data],
+  #"Changed column type" = Table.TransformColumnTypes(#"Navigation 1", {{"SalesAmount", Currency.Type}}),
+  #"Expanded Invoices" = Table.ExpandRecordColumn(#"Changed column type", "Invoices", {"InvoiceDate", "CustomerId"}, {"InvoiceDate", "CustomerId"}),
+  #"Changed column type 1" = Table.TransformColumnTypes(#"Expanded Invoices", {{"InvoiceDate", type date}}),
+  #"Expanded Products" = Table.ExpandRecordColumn(#"Changed column type 1", "Products", {"UnitCost"}, {"UnitCost"}),
+  ChangedUnitCostType = Table.TransformColumnTypes(#"Expanded Products", {{"UnitCost", Currency.Type}}),
+  AddProductCostColum = Table.AddColumn(ChangedUnitCostType, "ProductCost", each [Quantity] * [UnitCost])
+in
+  AddProductCostColum
