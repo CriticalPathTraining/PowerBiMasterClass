@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="row" style="padding-top:16px;">
+    <div class="btn-group" role="group" style="width: 100%;" >
+      <button type="button" class="btn btn-default" onclick="Javascript:document.location=document.URL.split('?')[0]"  >All Categories</button>
+      <button type="button" class="btn btn-default" onclick="Javascript:document.location=document.URL.split('?')[0] + '?category=Action Figures';">Action Figures</button>
+      <button type="button" class="btn btn-default" onclick="Javascript:document.location=document.URL.split('?')[0] + '?category=Arts and Crafts';">Arts and Crafts</button>
+      <button type="button" class="btn btn-default" onclick="Javascript:document.location=document.URL.split('?')[0] + '?category=Remote Control';">Remote Control</button>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="container">
+  <div class="row" style="padding-top:16px;">
+    
+    {% entityview logical_name:'cptlabs_product', name:"Active Products", page_size: 50 %}
+    
+    {% assign category = request.params['category'] %}
+    
+    {% if category %}
+      {% assign products = entityview.records | where: "cptlabs_productcategory.label", category | order_by: "cptlabs_productcode"  %}
+    {% else %}
+      {% assign products = entityview.records | order_by: "cptlabs_productcode"  %}
+    {% endif %}
+
+    {% for item in products %}
+    <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class=" panel-heading">{{ item.cptlabs_productname }}</div>
+        <div class="panel-body" style="border:1px solid #CCCCCC;height:90px;">
+          <img style="float:left;" src="{{ item.cptlabs_productimageurl }}" />
+          <div>{{ item.cptlabs_productdescription }}</div>
+          <div>{{ item.cptlabs_productcategory.label }}</div>
+          <div style="clear:left"></div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    {% endentityview %}
+  </div>
+</div>

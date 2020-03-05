@@ -1,0 +1,8 @@
+Application ID
+11111111-2222-3333-4444-555555555555
+
+Application Secret
+h2oneLp*QIe6cK5u@9nbXlfi*SkYDz@Y
+
+Resource URL
+https://analysis.windows.net/powerbi/api
