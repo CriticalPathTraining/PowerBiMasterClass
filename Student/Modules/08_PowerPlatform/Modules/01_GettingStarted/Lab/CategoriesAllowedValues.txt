@@ -1,0 +1,2 @@
+["Marketing", "Office Supplies", "Operations", "Research & Development"]
+
